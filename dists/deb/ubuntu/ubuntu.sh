@@ -9,5 +9,5 @@ apt-get install libconfig-std-perl
 apt-get install libtemplate-perl
 apt-get install liberror-perl
 apt-get install libcgi-simple-perl
-apt-get install libtest-exception-pe
+apt-get install libtest-exception-perl
 apt-get install liblocale-maketext-lexicon-perl
