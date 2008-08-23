@@ -11,3 +11,5 @@ apt-get install liberror-perl
 apt-get install libcgi-simple-perl
 apt-get install libtest-exception-perl
 apt-get install liblocale-maketext-lexicon-perl
+apt-get install libtest-exception-perl 
+apt-get install libdbd-pg-perl
